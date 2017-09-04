@@ -1,0 +1,6 @@
+# Ignore build files
+Debug
+
+# Ignore CCS settings
+.settings/*
+.launches/*
