@@ -1,0 +1,3 @@
+[submodule "lib/trf79xxa-driver"]
+	path = lib/trf79xxa-driver
+	url = https://github.com/phreaknik/trf79xxa-driver.git
